@@ -13,4 +13,8 @@
 10. Buat satu build berisi menu selection untuk mengakses semua scene.
 
 # Game Build
+1. Go to [Release tab] and download the zip.
+2. Unzip and click Final Build.exe
+3. Enjoyy!!
 Terdapat folder build untuk memainkan permainan yang sudah dibuat disetiap branch. Pada main menu terdapat menu "SELECT SCENE" untuk melihat seluruh problem yang dibuat dari 1 - 9.
+
